@@ -41,12 +41,15 @@ TagManager:
   - name: background
     uniqueID: 4199217197
     locked: 0
+  - name: palafitos_segundoNivel
+    uniqueID: 2402900735
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
-  - name: edificios
-    uniqueID: 2668274553
-    locked: 0
   - name: escaleras
     uniqueID: 2691220377
+    locked: 0
+  - name: edificios
+    uniqueID: 2668274553
     locked: 0
